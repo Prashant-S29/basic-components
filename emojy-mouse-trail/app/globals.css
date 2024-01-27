@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.starEffectOne{
+    animation: starOne 200ms linear 1;
+}
+
